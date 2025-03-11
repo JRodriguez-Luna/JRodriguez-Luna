@@ -9,7 +9,7 @@ I'm a software engineer with expertise in modern web technologies, focusing on c
 - Expanding my knowledge of advanced React patterns and state management
 
 ## 🌱 Technical Skills
-- **Languages**: TypeScript, JavaScript, HTML5, CSS, Python, C++
+- **Languages**: TypeScript, JavaScript, HTML5, CSS, Python, C++, React
 - **Frontend**: React, Responsive Design, UI/UX
 - **Backend**: Node.js, Express, PostgreSQL, RESTful APIs
 - **Tools**: Git, GitHub, JWT Authentication, Argon2
