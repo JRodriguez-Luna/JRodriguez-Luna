@@ -16,7 +16,6 @@
   
   - 🔭 I'm currently working on **MindBloom**, a wellness application
   - 🌱 I'm continuously improving my skills in **React**, **TypeScript**, and backend development
-  - 👯 I'm looking to collaborate on open-source projects focused on health and wellness
   - 💼 Open to new opportunities in software development
 </details>
 
