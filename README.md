@@ -1,18 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Jesus Rodriguez-Luna
 
-<!--
-**JRodriguez-Luna/JRodriguez-Luna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Software Engineer
 
-Here are some ideas to get you started:
+I'm a software engineer with expertise in modern web technologies, focusing on creating responsive and intuitive applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+- MindBloom: A wellness application that helps users track their mental health journey
+- Expanding my knowledge of advanced React patterns and state management
 
+## 🌱 Technical Skills
+- **Languages**: TypeScript, JavaScript, HTML5, CSS, Python, C++
+- **Frontend**: React, Responsive Design, UI/UX
+- **Backend**: Node.js, Express, PostgreSQL, RESTful APIs
+- **Tools**: Git, GitHub, JWT Authentication, Argon2
 
+## 💻 Featured Projects
+
+### MindBloom
+A full-stack wellness application featuring user authentication, mood tracking, challenges, and progress visualization.
+- Technologies: React, Node.js, PostgreSQL, TypeScript
+- Features: Secure authentication, daily challenges, mood tracking, responsive design
+
+## 📫 Connect With Me
+- LinkedIn: [Jesus Rodriguez-Luna](https://www.linkedin.com/in/jesusrodriguezluna/)
+
+## ⚡ Fun Fact
+When I'm not coding, you'll find me exploring new hiking trails!
