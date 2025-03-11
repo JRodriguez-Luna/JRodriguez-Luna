@@ -83,16 +83,28 @@
 
 ---
 
-<!-- GITHUB STATS SECTION -->
+<!-- CURRENT LEARNING PATH SECTION -->
 <details>
-  <summary><b>📊 GitHub Statistics</b></summary>
+  <summary><b>📚 Current Learning Path</b></summary>
   <br>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JRodriguez-Luna&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRodriguez-Luna&hide_border=true&theme=tokyonight" alt="GitHub Streak Stats" />
+    <h3>Epic React by Kent C. Dodds</h3>
+    <p>Currently enhancing my React expertise through this comprehensive workshop series</p>
   </div>
+  
+  I'm currently working through the Epic React program by Kent C. Dodds, which covers:
+  
+  - **React Fundamentals**: Building strong foundations with JSX and core React principles
+  - **React Hooks**: Mastering useState, useEffect, useContext, and custom hooks
+  - **Advanced Patterns**: Implementing compound components, prop collections/getters, and state reducers
+  - **Advanced React Hooks**: Utilizing useCallback, useMemo, useRef, and useLayoutEffect for optimization
+  - **Testing**: Developing robust testing strategies with React Testing Library
+  - **Performance Optimization**: Implementing code splitting, useMemo, React.memo, and Suspense
+  - **Suspense**: Working with concurrent mode and data fetching patterns
+  - **App Architecture**: Building scalable application architecture with context and custom hooks
+  
+  Through this intensive program, I'm developing advanced React skills to create more robust, maintainable, and performant applications. I apply these concepts directly in my projects to strengthen my practical implementation abilities.
 </details>
 
 ---
