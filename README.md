@@ -25,4 +25,4 @@ A full-stack wellness application featuring user authentication, mood tracking, 
 - LinkedIn: [Jesus Rodriguez-Luna](https://www.linkedin.com/in/jesusrodriguezluna/)
 
 ## ⚡ Fun Fact
-When I'm not coding, you'll find me exploring new hiking trails!
+Cycling was a hobby that became a passion in a month!
